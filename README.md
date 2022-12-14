@@ -1,2 +1,2 @@
-# go-hexagonal-tdd
-Repository for Golang API backend with Hexagonal pattern and TDD method
+# GO Customer
+Core layer of Banking Microservice project
